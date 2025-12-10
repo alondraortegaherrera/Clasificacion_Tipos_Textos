@@ -1,8 +1,5 @@
 ## Clasificación Automática de Textos Literarios
 
-**Descripción Breve:** Desarrollo y evaluación de modelos de Machine Learning para clasificar textos literarios en inglés (poesía, ensayo, cuento y novela) utilizando características de vocabulario y estructura.
-
-
 ### Planteamiento del Problema
 
 La creciente disponibilidad de textos en formato digital ha impulsado la necesidad de desarrollar sistemas automáticos capaces de organizar y clasificar grandes volúmenes de información escrita. Sin embargo, la clasificación de obras literarias representa un reto particular debido a su diversidad estilística, su complejidad estructural y la variación natural entre autores, épocas y formas de escritura. A diferencia de otros tipos de clasificación textual, identificar correctamente el tipo de texto, requiere modelos capaces de detectar tanto patrones lingüísticos como características estructurales propias de cada forma literaria.
